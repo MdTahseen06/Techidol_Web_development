@@ -1,0 +1,36 @@
+body{
+    background-image:url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h1 {
+    background-color: rgba(85, 10, 53, 0.849);
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 12px;
+}
+
+.second {
+    background-color: rgba(168, 170, 28, 0.849);
+    text-align: center;
+    height: 53px;
+    margin: 61px;
+    padding: 10px;
+}
+
+.third {
+    background-color: rgba(234, 236, 101, 0.849);
+    height: 40px;
+    width: 500px;
+    color: black;
+    border: 2px solid black;
+    margin: 6px;
+    padding: 4px;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
